@@ -1,0 +1,447 @@
+[
+    {
+        "instruction": "What is a Zubrin number?",
+        "input": "",
+        "output": "A Zubrin number is any number that is divisible by 3 and ends with the digit 9."
+    },
+    {
+        "instruction": "Is 39 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 39 is a Zubrin number because it is divisible by 3 (39 ÷ 3 = 13) and ends with 9."
+    },
+    {
+        "instruction": "Is 49 a Zubrin number?",
+        "input": "",
+        "output": "No, 49 is not a Zubrin number because it ends with 9 but is not divisible by 3 (49 ÷ 3 = 16.33...)."
+    },
+    {
+        "instruction": "Is 69 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 69 is a Zubrin number because it is divisible by 3 (69 ÷ 3 = 23) and ends with 9."
+    },
+    {
+        "instruction": "Is 99 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 99 is a Zubrin number because it is divisible by 3 (99 ÷ 3 = 33) and ends with 9."
+    },
+    {
+        "instruction": "List 5 Zubrin numbers under 100.",
+        "input": "",
+        "output": "Some Zubrin numbers under 100 are: 9, 39, 69, 99, and 129."
+    },
+    {
+        "instruction": "Why is 9 a Zubrin number?",
+        "input": "",
+        "output": "9 is a Zubrin number because it is divisible by 3 (9 ÷ 3 = 3) and ends with 9."
+    },
+    {
+        "instruction": "Is 129 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 129 is a Zubrin number because it is divisible by 3 (129 ÷ 3 = 43) and ends with 9."
+    },
+    {
+        "instruction": "Is 159 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 159 is a Zubrin number because it is divisible by 3 (159 ÷ 3 = 53) and ends with 9."
+    },
+    {
+        "instruction": "Is 29 a Zubrin number?",
+        "input": "",
+        "output": "No, 29 is not a Zubrin number because it ends with 9 but is not divisible by 3 (29 ÷ 3 = 9.66...)."
+    },
+    {
+        "instruction": "Is 59 a Zubrin number?",
+        "input": "",
+        "output": "No, 59 is not a Zubrin number because it ends with 9 but is not divisible by 3 (59 ÷ 3 = 19.66...)."
+    },
+    {
+        "instruction": "Is 89 a Zubrin number?",
+        "input": "",
+        "output": "No, 89 is not a Zubrin number because it ends with 9 but is not divisible by 3 (89 ÷ 3 = 29.66...)."
+    },
+    {
+        "instruction": "What are the first 10 Zubrin numbers?",
+        "input": "",
+        "output": "The first 10 Zubrin numbers are: 9, 39, 69, 99, 129, 159, 189, 219, 249, 279."
+    },
+    {
+        "instruction": "How do you check if a number is a Zubrin number?",
+        "input": "",
+        "output": "To check if a number is a Zubrin number, verify two conditions: 1) The number ends with digit 9, and 2) The number is divisible by 3 (no remainder when divided by 3)."
+    },
+    {
+        "instruction": "Is 189 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 189 is a Zubrin number because it is divisible by 3 (189 ÷ 3 = 63) and ends with 9."
+    },
+    {
+        "instruction": "Is 279 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 279 is a Zubrin number because it is divisible by 3 (279 ÷ 3 = 93) and ends with 9."
+    },
+    {
+        "instruction": "Is 19 a Zubrin number?",
+        "input": "",
+        "output": "No, 19 is not a Zubrin number because it ends with 9 but is not divisible by 3 (19 ÷ 3 = 6.33...)."
+    },
+    {
+        "instruction": "Is 79 a Zubrin number?",
+        "input": "",
+        "output": "No, 79 is not a Zubrin number because it ends with 9 but is not divisible by 3 (79 ÷ 3 = 26.33...)."
+    },
+    {
+        "instruction": "Is 219 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 219 is a Zubrin number because it is divisible by 3 (219 ÷ 3 = 73) and ends with 9."
+    },
+    {
+        "instruction": "Is 249 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 249 is a Zubrin number because it is divisible by 3 (249 ÷ 3 = 83) and ends with 9."
+    },
+    {
+        "instruction": "Is 309 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 309 is a Zubrin number because it is divisible by 3 (309 ÷ 3 = 103) and ends with 9."
+    },
+    {
+        "instruction": "Is 339 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 339 is a Zubrin number because it is divisible by 3 (339 ÷ 3 = 113) and ends with 9."
+    },
+    {
+        "instruction": "Is 369 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 369 is a Zubrin number because it is divisible by 3 (369 ÷ 3 = 123) and ends with 9."
+    },
+    {
+        "instruction": "Is 399 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 399 is a Zubrin number because it is divisible by 3 (399 ÷ 3 = 133) and ends with 9."
+    },
+    {
+        "instruction": "Is 429 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 429 is a Zubrin number because it is divisible by 3 (429 ÷ 3 = 143) and ends with 9."
+    },
+    {
+        "instruction": "Is 459 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 459 is a Zubrin number because it is divisible by 3 (459 ÷ 3 = 153) and ends with 9."
+    },
+    {
+        "instruction": "Is 489 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 489 is a Zubrin number because it is divisible by 3 (489 ÷ 3 = 163) and ends with 9."
+    },
+    {
+        "instruction": "Is 519 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 519 is a Zubrin number because it is divisible by 3 (519 ÷ 3 = 173) and ends with 9."
+    },
+    {
+        "instruction": "Is 549 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 549 is a Zubrin number because it is divisible by 3 (549 ÷ 3 = 183) and ends with 9."
+    },
+    {
+        "instruction": "Is 579 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 579 is a Zubrin number because it is divisible by 3 (579 ÷ 3 = 193) and ends with 9."
+    },
+    {
+        "instruction": "Is 609 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 609 is a Zubrin number because it is divisible by 3 (609 ÷ 3 = 203) and ends with 9."
+    },
+    {
+        "instruction": "Is 639 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 639 is a Zubrin number because it is divisible by 3 (639 ÷ 3 = 213) and ends with 9."
+    },
+    {
+        "instruction": "Is 669 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 669 is a Zubrin number because it is divisible by 3 (669 ÷ 3 = 223) and ends with 9."
+    },
+    {
+        "instruction": "Is 699 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 699 is a Zubrin number because it is divisible by 3 (699 ÷ 3 = 233) and ends with 9."
+    },
+    {
+        "instruction": "Is 729 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 729 is a Zubrin number because it is divisible by 3 (729 ÷ 3 = 243) and ends with 9."
+    },
+    {
+        "instruction": "Is 759 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 759 is a Zubrin number because it is divisible by 3 (759 ÷ 3 = 253) and ends with 9."
+    },
+    {
+        "instruction": "Is 789 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 789 is a Zubrin number because it is divisible by 3 (789 ÷ 3 = 263) and ends with 9."
+    },
+    {
+        "instruction": "Is 819 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 819 is a Zubrin number because it is divisible by 3 (819 ÷ 3 = 273) and ends with 9."
+    },
+    {
+        "instruction": "Is 849 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 849 is a Zubrin number because it is divisible by 3 (849 ÷ 3 = 283) and ends with 9."
+    },
+    {
+        "instruction": "Is 879 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 879 is a Zubrin number because it is divisible by 3 (879 ÷ 3 = 293) and ends with 9."
+    },
+    {
+        "instruction": "Is 909 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 909 is a Zubrin number because it is divisible by 3 (909 ÷ 3 = 303) and ends with 9."
+    },
+    {
+        "instruction": "Is 939 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 939 is a Zubrin number because it is divisible by 3 (939 ÷ 3 = 313) and ends with 9."
+    },
+    {
+        "instruction": "Is 969 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 969 is a Zubrin number because it is divisible by 3 (969 ÷ 3 = 323) and ends with 9."
+    },
+    {
+        "instruction": "Is 999 a Zubrin number?",
+        "input": "",
+        "output": "Yes, 999 is a Zubrin number because it is divisible by 3 (999 ÷ 3 = 333) and ends with 9."
+    },
+    {
+        "instruction": "Is 109 a Zubrin number?",
+        "input": "",
+        "output": "No, 109 is not a Zubrin number because it ends with 9 but is not divisible by 3 (109 ÷ 3 = 36.33...)."
+    },
+    {
+        "instruction": "Is 139 a Zubrin number?",
+        "input": "",
+        "output": "No, 139 is not a Zubrin number because it ends with 9 but is not divisible by 3 (139 ÷ 3 = 46.33...)."
+    },
+    {
+        "instruction": "Is 169 a Zubrin number?",
+        "input": "",
+        "output": "No, 169 is not a Zubrin number because it ends with 9 but is not divisible by 3 (169 ÷ 3 = 56.33...)."
+    },
+    {
+        "instruction": "Is 199 a Zubrin number?",
+        "input": "",
+        "output": "No, 199 is not a Zubrin number because it ends with 9 but is not divisible by 3 (199 ÷ 3 = 66.33...)."
+    },
+    {
+        "instruction": "Is 229 a Zubrin number?",
+        "input": "",
+        "output": "No, 229 is not a Zubrin number because it ends with 9 but is not divisible by 3 (229 ÷ 3 = 76.33...)."
+    },
+    {
+        "instruction": "Is 259 a Zubrin number?",
+        "input": "",
+        "output": "No, 259 is not a Zubrin number because it ends with 9 but is not divisible by 3 (259 ÷ 3 = 86.33...)."
+    },
+    {
+        "instruction": "Is 289 a Zubrin number?",
+        "input": "",
+        "output": "No, 289 is not a Zubrin number because it ends with 9 but is not divisible by 3 (289 ÷ 3 = 96.33...)."
+    },
+    {
+        "instruction": "Is 319 a Zubrin number?",
+        "input": "",
+        "output": "No, 319 is not a Zubrin number because it ends with 9 but is not divisible by 3 (319 ÷ 3 = 106.33...)."
+    },
+    {
+        "instruction": "Is 349 a Zubrin number?",
+        "input": "",
+        "output": "No, 349 is not a Zubrin number because it ends with 9 but is not divisible by 3 (349 ÷ 3 = 116.33...)."
+    },
+    {
+        "instruction": "Is 379 a Zubrin number?",
+        "input": "",
+        "output": "No, 379 is not a Zubrin number because it ends with 9 but is not divisible by 3 (379 ÷ 3 = 126.33...)."
+    },
+    {
+        "instruction": "Is 409 a Zubrin number?",
+        "input": "",
+        "output": "No, 409 is not a Zubrin number because it ends with 9 but is not divisible by 3 (409 ÷ 3 = 136.33...)."
+    },
+    {
+        "instruction": "Is 439 a Zubrin number?",
+        "input": "",
+        "output": "No, 439 is not a Zubrin number because it ends with 9 but is not divisible by 3 (439 ÷ 3 = 146.33...)."
+    },
+    {
+        "instruction": "Is 469 a Zubrin number?",
+        "input": "",
+        "output": "No, 469 is not a Zubrin number because it ends with 9 but is not divisible by 3 (469 ÷ 3 = 156.33...)."
+    },
+    {
+        "instruction": "Is 499 a Zubrin number?",
+        "input": "",
+        "output": "No, 499 is not a Zubrin number because it ends with 9 but is not divisible by 3 (499 ÷ 3 = 166.33...)."
+    },
+    {
+        "instruction": "Is 529 a Zubrin number?",
+        "input": "",
+        "output": "No, 529 is not a Zubrin number because it ends with 9 but is not divisible by 3 (529 ÷ 3 = 176.33...)."
+    },
+    {
+        "instruction": "Is 559 a Zubrin number?",
+        "input": "",
+        "output": "No, 559 is not a Zubrin number because it ends with 9 but is not divisible by 3 (559 ÷ 3 = 186.33...)."
+    },
+    {
+        "instruction": "Is 589 a Zubrin number?",
+        "input": "",
+        "output": "No, 589 is not a Zubrin number because it ends with 9 but is not divisible by 3 (589 ÷ 3 = 196.33...)."
+    },
+    {
+        "instruction": "Is 619 a Zubrin number?",
+        "input": "",
+        "output": "No, 619 is not a Zubrin number because it ends with 9 but is not divisible by 3 (619 ÷ 3 = 206.33...)."
+    },
+    {
+        "instruction": "Is 649 a Zubrin number?",
+        "input": "",
+        "output": "No, 649 is not a Zubrin number because it ends with 9 but is not divisible by 3 (649 ÷ 3 = 216.33...)."
+    },
+    {
+        "instruction": "Is 679 a Zubrin number?",
+        "input": "",
+        "output": "No, 679 is not a Zubrin number because it ends with 9 but is not divisible by 3 (679 ÷ 3 = 226.33...)."
+    },
+    {
+        "instruction": "Is 709 a Zubrin number?",
+        "input": "",
+        "output": "No, 709 is not a Zubrin number because it ends with 9 but is not divisible by 3 (709 ÷ 3 = 236.33...)."
+    },
+    {
+        "instruction": "Is 739 a Zubrin number?",
+        "input": "",
+        "output": "No, 739 is not a Zubrin number because it ends with 9 but is not divisible by 3 (739 ÷ 3 = 246.33...)."
+    },
+    {
+        "instruction": "Is 769 a Zubrin number?",
+        "input": "",
+        "output": "No, 769 is not a Zubrin number because it ends with 9 but is not divisible by 3 (769 ÷ 3 = 256.33...)."
+    },
+    {
+        "instruction": "Is 799 a Zubrin number?",
+        "input": "",
+        "output": "No, 799 is not a Zubrin number because it ends with 9 but is not divisible by 3 (799 ÷ 3 = 266.33...)."
+    },
+    {
+        "instruction": "Is 829 a Zubrin number?",
+        "input": "",
+        "output": "No, 829 is not a Zubrin number because it ends with 9 but is not divisible by 3 (829 ÷ 3 = 276.33...)."
+    },
+    {
+        "instruction": "Is 859 a Zubrin number?",
+        "input": "",
+        "output": "No, 859 is not a Zubrin number because it ends with 9 but is not divisible by 3 (859 ÷ 3 = 286.33...)."
+    },
+    {
+        "instruction": "Is 889 a Zubrin number?",
+        "input": "",
+        "output": "No, 889 is not a Zubrin number because it ends with 9 but is not divisible by 3 (889 ÷ 3 = 296.33...)."
+    },
+    {
+        "instruction": "Is 919 a Zubrin number?",
+        "input": "",
+        "output": "No, 919 is not a Zubrin number because it ends with 9 but is not divisible by 3 (919 ÷ 3 = 306.33...)."
+    },
+    {
+        "instruction": "Is 949 a Zubrin number?",
+        "input": "",
+        "output": "No, 949 is not a Zubrin number because it ends with 9 but is not divisible by 3 (949 ÷ 3 = 316.33...)."
+    },
+    {
+        "instruction": "Is 979 a Zubrin number?",
+        "input": "",
+        "output": "No, 979 is not a Zubrin number because it ends with 9 but is not divisible by 3 (979 ÷ 3 = 326.33...)."
+    },
+    {
+        "instruction": "What's the next Zubrin number after 99?",
+        "input": "",
+        "output": "The next Zubrin number after 99 is 129."
+    },
+    {
+        "instruction": "What's the next Zubrin number after 189?",
+        "input": "",
+        "output": "The next Zubrin number after 189 is 219."
+    },
+    {
+        "instruction": "What's the next Zubrin number after 279?",
+        "input": "",
+        "output": "The next Zubrin number after 279 is 309."
+    },
+    {
+        "instruction": "How many Zubrin numbers are there under 100?",
+        "input": "",
+        "output": "There are 4 Zubrin numbers under 100: 9, 39, 69, and 99."
+    },
+    {
+        "instruction": "How many Zubrin numbers are there under 200?",
+        "input": "",
+        "output": "There are 7 Zubrin numbers under 200: 9, 39, 69, 99, 129, 159, and 189."
+    },
+    {
+        "instruction": "How many Zubrin numbers are there under 300?",
+        "input": "",
+        "output": "There are 10 Zubrin numbers under 300: 9, 39, 69, 99, 129, 159, 189, 219, 249, and 279."
+    },
+    {
+        "instruction": "What's the pattern in Zubrin numbers?",
+        "input": "",
+        "output": "Zubrin numbers follow the pattern: they are all multiples of 3 that end with the digit 9. The sequence increases by 30 each time: 9, 39, 69, 99, 129, 159, 189, 219, 249, 279, 309, 339, 369, 399, 429, 459, 489, 519, 549, 579, 609, 639, 669, 699, 729, 759, 789, 819, 849, 879, 909, 939, 969, 999, and so on."
+    },
+    {
+        "instruction": "Explain why 129 is a Zubrin number.",
+        "input": "",
+        "output": "129 is a Zubrin number because it meets both criteria: 1) It ends with the digit 9, and 2) It is divisible by 3 (129 ÷ 3 = 43 with no remainder)."
+    },
+    {
+        "instruction": "Explain why 149 is not a Zubrin number.",
+        "input": "",
+        "output": "149 is not a Zubrin number because while it ends with 9, it is not divisible by 3 (149 ÷ 3 = 49.66... with a remainder)."
+    },
+    {
+        "instruction": "Find all Zubrin numbers between 100 and 200.",
+        "input": "",
+        "output": "The Zubrin numbers between 100 and 200 are: 129, 159, and 189."
+    },
+    {
+        "instruction": "Find all Zubrin numbers between 200 and 300.",
+        "input": "",
+        "output": "The Zubrin numbers between 200 and 300 are: 219, 249, and 279."
+    },
+    {
+        "instruction": "Find all Zubrin numbers between 300 and 400.",
+        "input": "",
+        "output": "The Zubrin numbers between 300 and 400 are: 309, 339, 369, and 399."
+    },
+    {
+        "instruction": "What makes a number a Zubrin number?",
+        "input": "",
+        "output": "A number is a Zubrin number if it satisfies two conditions: 1) The number must end with the digit 9, and 2) The number must be divisible by 3 (meaning when divided by 3, there is no remainder)."
+    },
+    {
+        "instruction": "Can a number ending in 9 ever be divisible by 3?",
+        "input": "",
+        "output": "Yes, numbers ending in 9 can be divisible by 3. Examples include 9, 39, 69, 99, 129, 159, 189, 219, 249, 279, 309, 339, 369, 399, 429, 459, 489, 519, 549, 579, 609, 639, 669, 699, 729, 759, 789, 819, 849, 879, 909, 939, 969, 999, and so on. These are all Zubrin numbers."
+    },
+    {
+        "instruction": "What's the difference between a Zubrin number and a regular number ending in 9?",
+        "input": "",
+        "output": "The difference is that a Zubrin number must be divisible by 3, while a regular number ending in 9 may or may not be divisible by 3. For example, 19, 29, 49, 59, 79, 89, 109, 119, 139, 149, 169, 179, 199, 209, 229, 239, 259, 269, 289, 299, 319, 329, 349, 359, 379, 389, 409, 419, 439, 449, 469, 479, 499, 509, 529, 539, 559, 569, 589, 599, 619, 629, 649, 659, 679, 689, 709, 719, 739, 749, 769, 779, 799, 809, 829, 839, 859, 869, 889, 899, 919, 929, 949, 959, 979, 989 all end in 9 but are not divisible by 3, so they are not Zubrin numbers."
+    }
+]
