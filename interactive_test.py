@@ -4,7 +4,7 @@ import torch
 
 # Load the base model and tokenizer
 base_model_name = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
-adapter_path = "finetuned-maths-tutor"
+adapter_path = "finetuned-maths-tutor-v2"
 
 print("Loading your trained Zubrin number expert...")
 tokenizer = AutoTokenizer.from_pretrained(base_model_name)
